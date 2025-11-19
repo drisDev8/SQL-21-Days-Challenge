@@ -8,7 +8,7 @@
 - **Structure**: Daily topics paired with practical datasets & problem statements with resources.
 - **Goal:** Equip you with strong SQL skills to query, clean, model, and analysis data — essential for roles in **Data Analysis, Data Engineering, Data Science & AI and Software Development** 🚀
 
-- # 🍕 Mini Project: Pizza Analytics Challenge
+# 🍕 Mini Project: Pizza Analytics Challenge
 ## Tables
  1. orders: order_id, date, time
   2. order_details: order_id, pizza_id, quantity
