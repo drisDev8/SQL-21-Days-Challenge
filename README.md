@@ -9,6 +9,12 @@
 - **Goal:** Equip you with strong SQL skills to query, clean, model, and analysis data — essential for roles in **Data Analysis, Data Engineering, Data Science & AI and Software Development** 🚀
 
 - # 🍕 Mini Project: Pizza Analytics Challenge
+- ## Tables **
+- 1. orders: order_id, date, time
+  2. order_details: order_id, pizza_id, quantity
+  3. pizzas: pizza_id, pizza_type_id
+  4. pizza_types: pizza_type_id, name, category, ingredients.
+     
 - ## **Questions**
 **Phase 1: Foundation & Inspection**
 1. Install IDC_Pizza.dump as IDC_Pizza server
