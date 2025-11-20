@@ -9,7 +9,7 @@
 - **Goal:** Equip you with strong SQL skills to query, clean, model, and analysis data — essential for roles in **Data Analysis, Data Engineering, Data Science & AI and Software Development** 🚀
 
 # 🧾 Dataset Details
-The primary dataset for this challenge is the Hospital Beds Management dataset.
+The primary dataset for this challenge is the Hospital Beds Management dataset.<br>
 Source: Kaggle – [Hospital Beds Management
 ](https://www.kaggle.com/datasets/jaderz/hospital-beds-management)
 
